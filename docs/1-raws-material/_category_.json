@@ -1,0 +1,8 @@
+{
+  "label": "Raw Material",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "References for material equivalent table, plate, shape or pipes."
+  }
+}
