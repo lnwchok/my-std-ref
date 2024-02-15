@@ -46,14 +46,14 @@ const config = {
           // editUrl:
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: false
-        // {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // }
+        blog: 
+        {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        }
         ,
         theme: {
           customCss: './src/css/custom.css',
@@ -68,7 +68,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/company_logo.png',
       navbar: {
-        title: 'Home',
+        title: '</>',
         logo: {
           alt: 'My Site Logo',
           src: 'img/company_logo.png',
@@ -89,18 +89,18 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        links :[
-          {
-          title: 'Sections',
-          items: [
-            {
-              label: 'Materials',
-              to: '/'
-            }
-          ]
-        },
-      ],
+        style: 'light',
+      //   links :[
+      //     {
+      //     title: 'Sections',
+      //     items: [
+      //       {
+      //         label: 'Materials',
+      //         to: '/'
+      //       }
+      //     ]
+      //   },
+      // ],
         // links: [
         //   {
         //     title: 'Docs',
