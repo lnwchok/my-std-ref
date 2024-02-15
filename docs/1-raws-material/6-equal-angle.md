@@ -2,4 +2,6 @@
 sidebar_position: 6
 ---
 
-# equal-angle
+# Equal Angle
+
+![image1](./img/102-1.png)

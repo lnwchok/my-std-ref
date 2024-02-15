@@ -2,4 +2,6 @@
 sidebar_position: 10
 ---
 
-# i-beam
+# I Beam
+
+![image1](./img/104-3.png)
